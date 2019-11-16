@@ -1,0 +1,16 @@
+matrix:
+- name: EN
+  aspell:
+    lang: en
+  sources:
+  - en/*
+- name: FR
+  aspell:
+    lang: fr
+  sources:
+  - fr/*
+- name: IT
+  aspell:
+    lang: it
+  sources:
+  - it/*
