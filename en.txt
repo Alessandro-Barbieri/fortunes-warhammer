@@ -1,5 +1,6 @@
 Allfather
 Angels
+Black
 Blood
 Cadian
 Captain
@@ -36,6 +37,7 @@ Marshal
 Moden's
 Ork
 Orks
+Plague
 Ratling
 Ravenwing
 Razorback
