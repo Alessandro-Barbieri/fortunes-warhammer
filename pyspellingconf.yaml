@@ -2,15 +2,32 @@ matrix:
 - name: EN
   aspell:
     lang: en
+  dictionary:
+    wordlists:
+    - en.txt
+    - generale.txt
+    - la.txt
+    output: en.dic
+    encoding: utf-8
   sources:
   - en/*
 - name: FR
   aspell:
     lang: fr
+  dictionary:
+    wordlists:
+    - generale.txt
+    output: fr.dic
+    encoding: utf-8
   sources:
   - fr/*
 - name: IT
   aspell:
     lang: it
+  dictionary:
+    wordlists:
+    - generale.txt
+    output: it.dic
+    encoding: utf-8
   sources:
   - it/*
