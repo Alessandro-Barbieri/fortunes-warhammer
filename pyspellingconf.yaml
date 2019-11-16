@@ -16,7 +16,9 @@ matrix:
     lang: fr
   dictionary:
     wordlists:
+    - en.txt
     - generale.txt
+    - la.txt
     output: fr.dic
     encoding: utf-8
   sources:
@@ -26,7 +28,9 @@ matrix:
     lang: it
   dictionary:
     wordlists:
+    - en.txt
     - generale.txt
+    - la.txt
     output: it.dic
     encoding: utf-8
   sources:
