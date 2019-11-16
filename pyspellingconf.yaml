@@ -30,6 +30,7 @@ matrix:
     wordlists:
     - en.txt
     - generale.txt
+    - it.txt
     - la.txt
     output: it.dic
     encoding: utf-8
