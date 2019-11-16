@@ -21,4 +21,4 @@ jobs:
         sudo apt-get install aspell aspell-en aspell-fr aspell-it
     - name: Spell check
       run: |
-        python -m pyspelling -c .github/workflows/pyspellingconf.yaml
+        python -m pyspelling -c pyspellingconf.yaml
