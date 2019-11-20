@@ -56,7 +56,9 @@ Macharius
 Macragge
 Magnus
 Magnir
+Mantra
 Marneus
+McGriffin
 Mephistari
 Mojaro
 Narthossus
@@ -73,6 +75,7 @@ Skaros
 Skolak
 Straken
 Stronos
+Tarn
 Telion
 Tigurius
 Torias
@@ -92,3 +95,4 @@ Yarrick
 Zamalod
 Zamorael
 Zutrov
+mamba
