@@ -1,5 +1,6 @@
-Amhrad
+Abriel
 Adar
+Amhrad
 Argentius
 Artor
 Aun'Va
@@ -39,6 +40,7 @@ Gregoran
 Guilliman
 Haakon
 Haakor
+Har
 Harker
 Hauis
 Helveticus
@@ -55,6 +57,7 @@ Kor'sarro
 Kraken
 Krivonor
 Kurtis
+Lent
 Lydoro
 Lysander
 Macharius
