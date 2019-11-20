@@ -1,15 +1,18 @@
 Abriel
 Adar
+Al'rahem
 Amhrad
 Argentius
 Artor
 Aun'Va
+Bale
 Barron
 Belisarius
 Belithael
 Borenza
 Cadia
 Calgar
+Carbo
 Cassius
 Cato
 Cawl
@@ -32,6 +35,7 @@ Fergas
 Ferrus
 Forlan
 Gabrian
+Galen
 Geronan
 Ghadrax
 Gideon
@@ -44,6 +48,7 @@ Har
 Harker
 Hauis
 Helveticus
+Hennessey
 Hicks
 Hume
 Incursa
