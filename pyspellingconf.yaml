@@ -17,6 +17,7 @@ matrix:
   dictionary:
     wordlists:
     - en.txt
+    - fr.txt
     - generale.txt
     - la.txt
     output: fr.dic
