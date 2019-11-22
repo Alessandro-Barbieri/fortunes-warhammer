@@ -49,6 +49,7 @@ Gharan
 Gideon
 Golgaar
 Gregoran
+GRÜNDVALD
 Guilliman
 Haakon
 Haakor
@@ -69,6 +70,7 @@ Katarinya
 Kayvaan
 Khorne
 Kohlt
+Kojhmar
 Kor'sarro
 Kraken
 Krieglust
