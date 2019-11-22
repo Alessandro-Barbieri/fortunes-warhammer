@@ -22,6 +22,7 @@ Celestine
 Chikova
 Chronus
 Creed
+Creek
 Czevak
 D'Kestrel
 Daggat
@@ -57,6 +58,7 @@ Hauis
 Helveticus
 Hennessey
 Hicks
+Huldwyn
 Hume
 Incursa
 Kalda
@@ -79,6 +81,7 @@ Macharius
 Macragge
 Magnus
 Magnir
+Makalian
 Mantra
 Marneus
 McGriffin
