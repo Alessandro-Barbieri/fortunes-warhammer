@@ -53,6 +53,7 @@ Sniper
 Solar
 Sons
 Sorcerer
+SQUIDDIES
 Strike
 Tech-Priests
 Templars
