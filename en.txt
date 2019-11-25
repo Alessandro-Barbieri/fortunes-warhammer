@@ -68,5 +68,6 @@ Warsmith
 greenskin
 greenskins
 shouldst
+subsector
 warp
 xenos
