@@ -1,5 +1,6 @@
 Ad
 Adepta
+Adeptus
 Archmagos
 Astartes
 Astronomican
@@ -7,6 +8,7 @@ Codex
 CONSERVATI
 Departmento
 Domine
+Explorator
 Exterminatus
 Fede
 III
@@ -15,12 +17,14 @@ Imperium
 IV
 IX
 Liber
+Magos
 Mechanicus
 Militarum
 Ministorum
 Munitorum
 Munificantus
 Prefectus
+Primus
 Scriptorus
 Sororitas
 Tactica
@@ -30,4 +34,5 @@ dominatus
 libera
 morte
 perpetua
+segmentum
 spiritu
