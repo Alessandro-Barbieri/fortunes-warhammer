@@ -32,6 +32,7 @@ XLI
 XX
 dominatus
 libera
+majoris
 morte
 perpetua
 segmentum
