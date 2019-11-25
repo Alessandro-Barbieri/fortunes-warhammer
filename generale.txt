@@ -55,6 +55,7 @@ Fenguard
 Fenris
 Fergas
 Ferrus
+FLN
 Forlan
 Gabrian
 Galen
@@ -146,6 +147,7 @@ Unforgiven
 Urgloth
 Ursarkar
 Valhalla
+Vallkante
 Valtor
 Varestus
 Varro
