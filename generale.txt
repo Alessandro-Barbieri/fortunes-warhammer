@@ -21,7 +21,6 @@ Cadia
 Calgar
 Carbo
 Cassius
-Castellan
 Cato
 Cawl
 Celestine
@@ -32,7 +31,6 @@ Creek
 Crowe
 Cthelmax
 Cypher
-Cypher's
 Czevak
 D'Kestrel
 Daggat
@@ -43,15 +41,11 @@ Deacis
 Degon
 Doreth
 Dorn
-Drookian
-Drovian
-Ecclesiarchy
 Eldar
 Elyass
 Emil
 Ezorath
 Fabius
-Fenguard
 Fenris
 Fergas
 Ferrus
@@ -64,6 +58,7 @@ Ghadrax
 Gharan
 Gideon
 Golgaar
+Gottlieb
 Gregoran
 Grimnar
 GRÜNDVALD
@@ -76,6 +71,7 @@ Hauis
 Helveticus
 Hennessey
 Hicks
+Hollseher
 Huldwyn
 Hume
 Incursa
@@ -96,6 +92,7 @@ Krivonor
 Kurtis
 Lelithar
 Lent
+Lothar
 Lydoro
 Lysander
 Macharius
@@ -108,9 +105,6 @@ Marneus
 McGriffin
 Mephistari
 Mojaro
-Mordian
-Mordians
-Mosstrooper
 Narthossus
 Nils
 Nimbosa
@@ -132,18 +126,19 @@ Shrike
 Sicarius
 Skaros
 Skolak
+Slaanesh
 Straken
 Stronos
 Tarn
 Telion
 Tigurius
+Tokkra
 Torias
 Toshenko
 Tu'shan
 Tzeentch
 Ulthwé
 Ultramar
-Unforgiven
 Urgloth
 Ursarkar
 Valhalla
@@ -154,7 +149,6 @@ Varro
 Vel'cona
 Verignan
 Voshnek
-Vostroyan
 Yarrick
 Zamalod
 Zamorael
@@ -162,3 +156,4 @@ Zutrov
 a'Trellar
 grox
 mamba
+von
