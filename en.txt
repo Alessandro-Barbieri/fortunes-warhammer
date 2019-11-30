@@ -2,6 +2,7 @@ Allfather
 Angels
 Black
 Blood
+Bretonnian
 Cadian
 Captain
 Castellan
@@ -37,6 +38,7 @@ Iron
 Ironclaw
 Khorne's
 Legion
+Lothar's
 Madeye
 Magnir's
 Marine
@@ -89,7 +91,9 @@ greenskins
 lascannon
 leathered
 onwards
+plumblines
 shouldst
+sniggered
 subsector
 undreamt
 unreined
