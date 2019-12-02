@@ -68,6 +68,8 @@ Ghazghkull
 Ghazgkhull
 Gibli
 Gideon
+Gobbitz
+Gobstikk
 Golgaar
 Gork
 Gottlieb
@@ -167,6 +169,7 @@ Ulthwé
 Ultramar
 Urgloth
 Ursarkar
+Uruk
 Valhalla
 Vallkante
 Valtor
@@ -175,6 +178,9 @@ Varro
 Vel'cona
 Verignan
 Voshnek
+WAAAAAARGH
+Waaagh
+Waaargh
 Westerisle
 Yarik
 Yarrick
