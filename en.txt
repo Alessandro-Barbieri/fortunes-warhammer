@@ -105,7 +105,9 @@ Unforgiven
 Veteran
 Vostroyan
 Warbuggies
+Warmaster
 Warp
+Warpspace
 Warriors
 Warsmith
 We’s
@@ -131,9 +133,11 @@ darkling
 dat
 dem
 dere
+despatch
 dey
 disobediences
 ead
+ecstacy
 everyfing
 fleshless
 freeks
@@ -165,9 +169,12 @@ psycannon
 raks
 shouldst
 sniggered
+sorceries
 straffing
 stunties
 subsector
+techplastic
+techplastics
 undreamt
 unprecious
 unreined
@@ -176,6 +183,7 @@ uz
 wagonz
 warband
 warp
+warpgates
 warpings
 we’s
 we’z
