@@ -19,6 +19,7 @@ Imperialis
 Imperium
 IV
 IX
+Legiones
 Liber
 Magos
 Malleus
