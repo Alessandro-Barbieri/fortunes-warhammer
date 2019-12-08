@@ -6,7 +6,9 @@ Al'rahem
 Amalath
 Amhrad
 Amistel
+Arboroath
 Argentius
+Armageddon
 Arsann
 Artor
 Asuryan
@@ -43,6 +45,7 @@ Dagostin
 Darnath
 Deacis
 Degon
+Demetrius
 Doreth
 Dorn
 Dragnatz
@@ -60,6 +63,7 @@ Ferrus
 Forlan
 GRÜNDVALD
 Gabrian
+Galbus
 Galen
 Geronan
 Ghadrax
@@ -81,8 +85,10 @@ Guilliman
 Haakon
 Haakor
 Har
+Harkan
 Harker
 Hauis
+Heer
 Helveticus
 Hennessey
 Hicks
@@ -90,6 +96,8 @@ Hollseher
 Huldwyn
 Hume
 Incursa
+Issus
+Jhelisdai
 Kaiserschlect
 Kalda
 Kallastin
@@ -132,11 +140,13 @@ Nils
 Nimbosa
 Nurgle
 O'hen
+Olex
 Orthas
 Pannent
 Phaleg
 Piscina
 Pissenah
+Portrein
 Qu'rastis
 Raukaan
 Reed
@@ -144,6 +154,8 @@ Reiv
 Rethoricus
 Roboute
 Russ
+Salonika
+Sarithel
 Sejanus
 Shantos
 Shrike
