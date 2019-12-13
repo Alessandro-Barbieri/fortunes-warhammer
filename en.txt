@@ -1,5 +1,6 @@
 Allfather
 Angels
+Astropathic
 Black
 Blood
 Bolters
@@ -8,6 +9,7 @@ Boyz
 Bretonnian
 Bugga
 Cadian
+Cadians
 Captain
 Castellan
 Catachan
@@ -18,6 +20,8 @@ City
 Commissar
 Company
 Confessor
+Craftworld
+Craftworld’s
 Cypher's
 Dark
 Death
@@ -30,7 +34,11 @@ Drovian
 Ecclesiarch
 Ecclesiarchy
 Ethereal
+Exarch
+Exarchs
 FREEKS
+Farseer
+Farseers
 Fenguard
 Fighta
 Fists
@@ -52,8 +60,11 @@ Inquisitor
 Iron
 Ironclaw
 Ironfist
+Keigh’s
 Khorne's
+Kotarian
 Kult
+Lasrifle
 Legion
 Liutenant
 Lothar's
@@ -71,9 +82,11 @@ Moonstrike
 Mordian
 Mordians
 Mosstrooper
+Niadien’s
 Ork
 Orks
 Plague
+Primarch
 Ratling
 Ravenwing
 Razorback
@@ -88,6 +101,7 @@ Sergeant
 Shatterpeak
 Slaaneshi
 Slaanesh’s
+Slaanesh’s
 Sniper
 Solar
 Sons
@@ -99,6 +113,7 @@ Thousand
 Tilean
 Trukks
 Tyranids
+Ulthran’s
 Ultramarine
 Ultramarines
 Unforgiven
@@ -110,6 +125,8 @@ Warp
 Warpspace
 Warriors
 Warsmith
+Waystone
+Waystones
 We’s
 antimasque
 anyfing
@@ -122,6 +139,7 @@ bloodlust
 bolter
 bosspoles
 boyz
+cacodaemons
 carven
 charnel
 countermarched
@@ -155,8 +173,10 @@ killy
 konkering
 ladz
 lascannon
+lasgun
 leathered
 lowings
+magicks
 membered
 meself
 nomadz
@@ -170,6 +190,7 @@ raks
 shouldst
 sniggered
 sorceries
+sorcerous
 straffing
 stunties
 subsector
@@ -185,12 +206,15 @@ warband
 warp
 warpgates
 warpings
+webway
 we’s
 we’z
 where’d
 wittled
 wiv
 woz
+wraithbone
+wraithornes
 xenos
 yoosless
 yooz
