@@ -250,6 +250,7 @@ membered
 meself
 micrometeoroids
 monomolecular
+nd
 nomadz
 nothin
 omophaegic
@@ -261,6 +262,7 @@ outright
 planetfall
 plascrete
 plumblines
+pre
 pre-planned
 psycannon
 raks
@@ -286,6 +288,7 @@ superluminous
 techplastic
 techplastics
 tenebrous
+th
 twentyfold
 underhive
 undreamt
