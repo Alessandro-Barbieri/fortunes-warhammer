@@ -17,6 +17,7 @@ Aliesha
 Amalath
 Amhrad
 Amistel
+Andralios
 Anzion
 Apothecarium
 Arbites
@@ -31,11 +32,14 @@ Artor
 Arvad
 Astartes
 Astronomican
+Asuramandos
 Asuryan
 Aun'Va
 Azrael
 BELIAL
+BLADEN
 Bacharia
+Badenhall
 Bale
 Baran
 Barantom
@@ -46,6 +50,7 @@ Beacher
 Belisarius
 Belithael
 Biel
+Bladen
 Boreaus
 Borenza
 Brigitta
@@ -70,6 +75,7 @@ Chronus
 Codex
 Colathrax
 Commorragh
+Costman
 Creed
 Creek
 Crowe
@@ -83,6 +89,7 @@ Daggat
 Dagohma
 Dagostin
 Darnath
+DeJano
 Deacis
 Deakins
 Degon
@@ -106,6 +113,7 @@ Exterminatus
 Ezorath
 FLN
 Fabius
+Fane
 Farglum
 Fede
 Fenris
@@ -115,6 +123,7 @@ Ferrus
 Fischig
 Forlan
 Frederiks
+Frigidus
 GENETOR
 GRÜNDVALD
 GYNDRA
@@ -132,9 +141,11 @@ Gibli
 Gideon
 Gobbitz
 Gobstikk
+Gol
 Golgaar
 Goreden
 Gork
+Gorsameth
 Gottlieb
 Gottschalk
 Gregoran
@@ -145,6 +156,7 @@ Gudrunite
 Guilliman
 Haakon
 Haakor
+Haller
 Halreisian
 Har
 Harkan
@@ -155,6 +167,7 @@ Helveticus
 Hennessey
 Hephaestos
 Hereticus
+Hessel
 Hicks
 Hollseher
 Holroyd
@@ -173,6 +186,7 @@ Inq
 Invictus
 Issus
 Jaynak
+Jenks
 Jhelisdai
 Kaarlson
 Kaela
@@ -197,11 +211,13 @@ Knyas’muad
 Kobal
 Kohlt
 Kojhmar
+Kolea
 Kor'sarro
 Korkin
 Kotarian
 Kraken
 Krieglust
+Krigos
 Krivonor
 Krukfang
 Kryptman
@@ -211,6 +227,7 @@ Laconfir
 Learchus
 Legiones
 Lelithar
+Leman
 Lemartes
 Lent
 Liber
@@ -219,6 +236,7 @@ Lomas
 Lothar
 Lukiz
 Lydoro
+Lysades
 Lysander
 Macharius
 Macragge
@@ -230,6 +248,8 @@ Malakur
 Malleus
 Mantra
 Marneus
+Marnok
+Massena
 Maticula
 Maugan
 Mauryon
@@ -250,10 +270,12 @@ Nadien
 Narthossus
 Naz
 Necrontyr
+Nessa
 Neve
 Niadien
 Nils
 Nimbosa
+Nissa
 Nurgle
 O'hen
 Ocularis
@@ -267,10 +289,13 @@ Pissenah
 Portrein
 Prefectus
 Primus
+Proccuppio
 Pyran
 Qu'rastis
 Raukaan
+Ravensburg
 Reed
+Reille
 Reiv
 Rethoricus
 Roboute
@@ -298,11 +323,13 @@ Snagga
 Sororitas
 Straken
 Stronos
+Svergan
 THRAX
 Tactica
 Talasa
 Tarn
 Tarturus
+Tegus
 Telion
 Tempestora
 Tenathis
@@ -312,9 +339,11 @@ Thraka
 Thrax
 Tigurius
 Tokkra
+Tolsten
 Torias
 Tortalus
 Toshenko
+Trautman
 Tu'shan
 Tumulus
 Tyrell
@@ -325,6 +354,7 @@ Ultima
 Ultramar
 Urgloth
 Ursarkar
+Urthwart
 Uruk
 Vagin
 Valhalla
@@ -338,6 +368,7 @@ Verhek
 Verignan
 Veril
 Victorix
+Vidor
 Vogen
 Voshnek
 WAAAAAARGH
@@ -353,6 +384,7 @@ Yarrick
 Yngir
 Zamalod
 Zamorael
+Zoican
 Zutrov
 a'Trellar
 arnitisui
