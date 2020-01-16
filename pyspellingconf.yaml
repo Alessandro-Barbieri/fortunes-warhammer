@@ -12,7 +12,7 @@ matrix:
   - en/*
 - name: FR
   hunspell:
-    d: fr
+    d: fr_FR
   dictionary:
     wordlists:
     - en.txt
@@ -24,7 +24,7 @@ matrix:
   - fr/*
 - name: IT
   hunspell:
-    d: it
+    d: it_IT
   dictionary:
     wordlists:
     - en.txt
