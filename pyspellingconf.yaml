@@ -1,7 +1,7 @@
 matrix:
 - name: EN
-  aspell:
-    lang: en
+  hunspell:
+    d: en_GB
   dictionary:
     wordlists:
     - en.txt
@@ -11,8 +11,8 @@ matrix:
   sources:
   - en/*
 - name: FR
-  aspell:
-    lang: fr
+  hunspell:
+    d: fr
   dictionary:
     wordlists:
     - en.txt
@@ -23,8 +23,8 @@ matrix:
   sources:
   - fr/*
 - name: IT
-  aspell:
-    lang: it
+  hunspell:
+    d: it
   dictionary:
     wordlists:
     - en.txt
