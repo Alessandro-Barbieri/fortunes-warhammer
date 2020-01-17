@@ -183,6 +183,7 @@ Worldeaters
 Zoicans
 Zolcan’s
 adamantium
+agri
 antimasque
 anyfing
 appens
@@ -191,6 +192,8 @@ ard
 autochthonous
 autogun
 autopistol
+battlecry
+battleline
 beakies
 beaky
 bearhug
@@ -203,6 +206,7 @@ bolters
 bosspoles
 boyz
 cacodaemons
+camo
 canna
 carven
 cellarion
@@ -236,6 +240,7 @@ fieldcraft
 flambeaux
 fleshless
 foetid
+foodstations
 footsloggers
 fountaining
 fraggers
@@ -268,10 +273,12 @@ krak
 ladz
 las
 lascannon
+lasfire
 lasgun
 lasguns
 laspistol
 laspistols
+lasround
 leathered
 lifeform
 liutenant

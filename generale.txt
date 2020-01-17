@@ -76,6 +76,7 @@ Chima
 Chronus
 Codex
 Colathrax
+Colm
 Commorragh
 Corbec
 Costman
@@ -111,6 +112,7 @@ Eldrad
 Elyass
 Emeritar
 Emil
+Estrone
 Eugenian
 Explorator
 Exterminatus
@@ -189,6 +191,7 @@ Incursa
 Inq
 Invictus
 Issus
+Janssen
 Jaynak
 Jenks
 Jhelisdai
@@ -311,6 +314,7 @@ Reille
 Reiv
 Rethoricus
 Roboute
+Rojo
 Russ
 Saim
 Saim-hann
@@ -331,6 +335,7 @@ Skargrim
 Skaros
 Skolak
 Slaanesh
+Slavro
 Snagga
 Solan
 Soric
@@ -341,6 +346,7 @@ Svergan
 THRAX
 Tactica
 Talasa
+Taldac
 Tanith
 Tarn
 Tarturus
