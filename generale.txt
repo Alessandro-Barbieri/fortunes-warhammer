@@ -62,6 +62,7 @@ CVII
 CXVI
 CXXI
 Cadia
+Caffran
 Cales
 Calgar
 Carbo
@@ -69,12 +70,14 @@ Cassius
 Cato
 Cawl
 Celestine
+Cerbera
 Chikova
 Chima
 Chronus
 Codex
 Colathrax
 Commorragh
+Corbec
 Costman
 Creed
 Creek
@@ -96,6 +99,7 @@ Degon
 Demetrius
 Departmento
 Domine
+Dorden
 Doreth
 Dorn
 Dragnatz
@@ -214,8 +218,11 @@ Kojhmar
 Kolea
 Kor'sarro
 Korkin
+Korps
 Kotarian
 Kraken
+Kreig
+Krieg
 Krieglust
 Krigos
 Krivonor
@@ -224,6 +231,7 @@ Kryptman
 Kurtis
 LICTOR
 Laconfir
+Larkin
 Learchus
 Legiones
 Lelithar
@@ -234,6 +242,7 @@ Liber
 Lictor
 Lomas
 Lothar
+Lotin
 Lukiz
 Lydoro
 Lysades
@@ -249,6 +258,7 @@ Malleus
 Mantra
 Marneus
 Marnok
+Marquanse
 Massena
 Maticula
 Maugan
@@ -262,6 +272,7 @@ Mikhaels
 Militarum
 Ministorum
 Mojaro
+Monthal
 Mork
 Munificantus
 Munitorum
@@ -294,6 +305,7 @@ Pyran
 Qu'rastis
 Raukaan
 Ravensburg
+Rawne
 Reed
 Reille
 Reiv
@@ -320,6 +332,8 @@ Skaros
 Skolak
 Slaanesh
 Snagga
+Solan
+Soric
 Sororitas
 Straken
 Stronos
@@ -327,6 +341,7 @@ Svergan
 THRAX
 Tactica
 Talasa
+Tanith
 Tarn
 Tarturus
 Tegus
@@ -335,6 +350,7 @@ Tempestora
 Tenathis
 Terribus
 Tessera
+Thoren
 Thraka
 Thrax
 Tigurius

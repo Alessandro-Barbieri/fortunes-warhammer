@@ -35,6 +35,7 @@ Confessor
 Craftworld
 Craftworld’s
 Cypher's
+Daemonette
 Dark
 Death
 Deathworld
@@ -65,12 +66,14 @@ Gargantz
 Geddem
 General
 Gol’s
+Gorks
 Gorsameth’s
 Gottschalk’s
 Greyfax
 Guard
 Hand
 Hands
+Helltown
 Hivefleet
 Humie
 Humies
@@ -113,6 +116,7 @@ Moden's
 Moonstrike
 Mordian
 Mordians
+Morks
 Mosstrooper
 Mycetic
 Niadien’s
@@ -176,6 +180,7 @@ Waystone
 Waystones
 We’s
 Worldeaters
+Zoicans
 Zolcan’s
 adamantium
 antimasque
