@@ -24,6 +24,7 @@ Arbites
 Arboroath
 Archmagos
 Areicon
+Argentium
 Argentius
 Armageddon
 Armaplas
@@ -323,6 +324,7 @@ Sanctorum
 Sanguinius
 Sapari
 Sarithel
+Savlar
 Scallen
 Schaeffer
 Scriptorus

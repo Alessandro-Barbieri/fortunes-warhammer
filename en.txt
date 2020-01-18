@@ -232,6 +232,7 @@ despatch
 dey
 disobediences
 ead
+earnt
 ecstacy
 electro
 everyfing
@@ -276,11 +277,14 @@ lascannon
 lasfire
 lasgun
 lasguns
+lashfly
 laspistol
 laspistols
 lasround
+leant
 leathered
 lifeform
+limbed
 liutenant
 lowings
 lynchpins
@@ -291,6 +295,7 @@ meltabombs
 meltas
 membered
 meself
+microbead
 micrometeoroids
 monomolecular
 nd
@@ -311,14 +316,18 @@ psycannon
 raks
 ribcage
 rictus
+ridgeway
 rulership
 saltire
 sawn
+sensless
 shadowly
 shockwaves
 shorn
 shouldst
 sigils
+skintrader
+smushed
 sniggered
 sorceries
 sorcerous
@@ -355,6 +364,7 @@ we’z
 where’d
 wittled
 wiv
+worlder
 woz
 wraithbone
 wraithornes
