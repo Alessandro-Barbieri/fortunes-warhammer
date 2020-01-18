@@ -163,11 +163,13 @@ Gudrunite
 Guilliman
 Haakon
 Haakor
+Haines
 Haller
 Halreisian
 Har
 Harkan
 Harker
+Hastor
 Hauis
 Heer
 Helveticus
@@ -215,6 +217,7 @@ Khaine
 Kheros
 Khorne
 Kieras
+Kirishi
 Knyas’muad
 Kobal
 Kohlt
@@ -272,6 +275,7 @@ Mechanicus
 Mensha
 Mephistari
 Merkin
+Mhakkan
 Mikhaels
 Militarum
 Ministorum

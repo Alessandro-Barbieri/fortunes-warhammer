@@ -9,6 +9,7 @@ Apothecary
 Astropath
 Astropathic
 Autogun
+Avoir
 Black
 Blood
 Bolters
@@ -75,6 +76,7 @@ Hand
 Hands
 Helltown
 Hivefleet
+Hormagaunts
 Humie
 Humies
 Hummie
@@ -189,6 +191,7 @@ anyfing
 appens
 aquaducts
 ard
+armsman
 autochthonous
 autogun
 autopistol
@@ -240,6 +243,7 @@ eyepatch
 fieldcraft
 flambeaux
 fleshless
+foetal
 foetid
 foodstations
 footsloggers
@@ -248,6 +252,7 @@ fraggers
 freeks
 gangers
 gauntleted
+genestealer
 godz
 gouts
 grav
@@ -268,6 +273,7 @@ im
 intercostal
 iz
 killy
+klicks
 kneepad
 konkering
 krak
@@ -314,6 +320,7 @@ pre
 pre-planned
 psycannon
 raks
+redback
 ribcage
 rictus
 ridgeway
