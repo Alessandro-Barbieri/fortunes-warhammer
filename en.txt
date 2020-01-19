@@ -41,6 +41,7 @@ Dark
 Death
 Deathworld
 Deffblasta
+Deth
 Devils
 Dihydrogen
 Doomblaster
@@ -160,6 +161,7 @@ Templars
 Terminator’s
 Thousand
 Tilean
+Traks
 Trukks
 Trygon’s
 Tyranic
@@ -329,6 +331,7 @@ saltire
 sawn
 sensless
 shadowly
+shaks
 shockwaves
 shorn
 shouldst
@@ -350,6 +353,7 @@ techplastics
 teleported
 tenebrous
 th
+trubble
 twentyfold
 underhive
 undreamt
@@ -365,6 +369,7 @@ warp
 warpgates
 warpings
 warzone
+waypoint
 webway
 we’s
 we’z
