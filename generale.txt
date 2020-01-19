@@ -24,6 +24,7 @@ Arbites
 Arboroath
 Archmagos
 Areicon
+Argentium
 Argentius
 Armageddon
 Armaplas
@@ -62,6 +63,7 @@ CVII
 CXVI
 CXXI
 Cadia
+Caffran
 Cales
 Calgar
 Carbo
@@ -69,12 +71,15 @@ Cassius
 Cato
 Cawl
 Celestine
+Cerbera
 Chikova
 Chima
 Chronus
 Codex
 Colathrax
+Colm
 Commorragh
+Corbec
 Costman
 Creed
 Creek
@@ -96,6 +101,7 @@ Degon
 Demetrius
 Departmento
 Domine
+Dorden
 Doreth
 Dorn
 Dragnatz
@@ -107,6 +113,7 @@ Eldrad
 Elyass
 Emeritar
 Emil
+Estrone
 Eugenian
 Explorator
 Exterminatus
@@ -156,11 +163,13 @@ Gudrunite
 Guilliman
 Haakon
 Haakor
+Haines
 Haller
 Halreisian
 Har
 Harkan
 Harker
+Hastor
 Hauis
 Heer
 Helveticus
@@ -185,6 +194,7 @@ Incursa
 Inq
 Invictus
 Issus
+Janssen
 Jaynak
 Jenks
 Jhelisdai
@@ -207,6 +217,7 @@ Khaine
 Kheros
 Khorne
 Kieras
+Kirishi
 Knyas’muad
 Kobal
 Kohlt
@@ -214,8 +225,11 @@ Kojhmar
 Kolea
 Kor'sarro
 Korkin
+Korps
 Kotarian
 Kraken
+Kreig
+Krieg
 Krieglust
 Krigos
 Krivonor
@@ -224,6 +238,7 @@ Kryptman
 Kurtis
 LICTOR
 Laconfir
+Larkin
 Learchus
 Legiones
 Lelithar
@@ -234,6 +249,7 @@ Liber
 Lictor
 Lomas
 Lothar
+Lotin
 Lukiz
 Lydoro
 Lysades
@@ -249,6 +265,7 @@ Malleus
 Mantra
 Marneus
 Marnok
+Marquanse
 Massena
 Maticula
 Maugan
@@ -258,10 +275,12 @@ Mechanicus
 Mensha
 Mephistari
 Merkin
+Mhakkan
 Mikhaels
 Militarum
 Ministorum
 Mojaro
+Monthal
 Mork
 Munificantus
 Munitorum
@@ -293,11 +312,13 @@ Pyran
 Qu'rastis
 Raukaan
 Ravensburg
+Rawne
 Reed
 Reille
 Reiv
 Rethoricus
 Roboute
+Rojo
 Russ
 Saim
 Saim-hann
@@ -306,6 +327,7 @@ Sanctorum
 Sanguinius
 Sapari
 Sarithel
+Savlar
 Scallen
 Schaeffer
 Scriptorus
@@ -318,7 +340,10 @@ Skargrim
 Skaros
 Skolak
 Slaanesh
+Slavro
 Snagga
+Solan
+Soric
 Sororitas
 Straken
 Stronos
@@ -326,6 +351,8 @@ Svergan
 THRAX
 Tactica
 Talasa
+Taldac
+Tanith
 Tarn
 Tarturus
 Tegus
@@ -334,6 +361,7 @@ Tempestora
 Tenathis
 Terribus
 Tessera
+Thoren
 Thraka
 Thrax
 Tigurius
