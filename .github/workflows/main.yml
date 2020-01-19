@@ -21,4 +21,5 @@ jobs:
         sudo apt-get install aspell aspell-en aspell-fr aspell-it
     - name: Spell check
       run: |
+        egrep -lRZ '’' . | xargs -0 -l sed -i -e "s/’/\'/g"
         python -m pyspelling -c pyspellingconf.yaml
