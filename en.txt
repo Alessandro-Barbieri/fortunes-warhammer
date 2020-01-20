@@ -312,6 +312,7 @@ Magos
 Majoris
 Malakur
 Malleus
+Malus
 Marine
 Marines
 Marneus
@@ -443,6 +444,7 @@ Thoren
 Thousand
 Thraka
 Thrax
+Thraxx
 Tigurius
 Tilean
 Tokkra
@@ -472,6 +474,7 @@ Uruk
 Vagin
 Vallkante
 Varro
+Varsavia
 Vaul
 Verhek
 Veril
