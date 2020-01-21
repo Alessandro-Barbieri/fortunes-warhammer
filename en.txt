@@ -589,6 +589,7 @@ foetal
 foetid
 foodstations
 footsloggers
+foundings
 fountaining
 fraggers
 freeks
