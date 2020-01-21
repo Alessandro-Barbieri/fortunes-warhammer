@@ -124,6 +124,7 @@ Doomblaster
 Dorden
 Doreth
 Dorn
+Draeg
 Dragnatz
 Dragoons
 Drookian
@@ -377,6 +378,7 @@ Ravensburg
 Ravenwing
 Rawne
 Razorback
+Reductor
 Reille
 Reille's
 Rhino
