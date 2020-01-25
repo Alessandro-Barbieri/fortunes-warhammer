@@ -14,6 +14,7 @@ Ahash
 Akrida
 Aliesha
 Aliesha's
+Alisore
 Allfather
 Amalath
 Amistel
@@ -113,6 +114,7 @@ Dark
 DeJano
 Deakins
 Death
+Deathwing
 Deathworld
 Deffblasta
 Departmento
@@ -129,13 +131,17 @@ Dragnatz
 Dragoons
 Drookian
 Drovian
+Dulan
 Duniash
+Durath
+Durath's
 Earthshaker
 Ecclesiarch
 Ecclesiarchal
 Ecclesiarchy
 Egil
 Einz
+El'Jonson
 Eldar
 Eldar's
 Eldrad
@@ -259,6 +265,7 @@ Kheros
 Khorne
 Khorne's
 Kieras
+Kimmeria
 Kirishi
 Knyas'muad
 Kobal
@@ -454,6 +461,7 @@ Tolsten
 Tortalus
 Traks
 Trautman
+Truan
 Trukks
 Trygon's
 Tumulus
@@ -677,6 +685,7 @@ pre-planned
 psycannon
 raks
 redback
+refight
 ribcage
 rictus
 ridgeway
