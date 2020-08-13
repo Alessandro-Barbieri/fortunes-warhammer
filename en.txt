@@ -151,6 +151,7 @@ Ecclesiarch
 Ecclesiarchal
 Ecclesiarchy
 Egil
+Eidolon
 Eidolon's
 Einz
 El'Jonson
@@ -367,6 +368,7 @@ Mechanicus
 Mek
 Mekaniak
 Mensha
+Mephiston
 Merkin
 Mhagdhash
 Mhakkan
@@ -377,6 +379,7 @@ Moonstrike
 Mordian
 Mordian's
 Mordians
+Moriar
 Moriar's
 Mork
 Morks
