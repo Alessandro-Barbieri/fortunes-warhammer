@@ -1,5 +1,6 @@
 ANZION
 APCs
+ARTISANAL
 Abaddon
 Abaddon's
 Abhotha
@@ -92,6 +93,7 @@ Caritados
 Carnarvon
 Castellan
 Catachan
+Cathedrum
 Celestians
 Celestine
 Cerbera
@@ -157,11 +159,13 @@ Duniash
 Durath
 Durath's
 EIDOLON
-ELHANOR
+ELAHNOR
 Earthshaker
+Ebon
 Ecclesiarch
 Ecclesiarchal
 Ecclesiarchy
+Ecclesiarchy's
 Egil
 Eidolon
 Eidolon's
@@ -171,8 +175,11 @@ El'Phanor
 Eldar
 Eldar's
 Eldrad
+Elenica
 Elyass
 Emeritar
+Eruita
+Erynica
 Estrone
 Estrone's
 Ethereal
@@ -197,10 +204,12 @@ Ferdan
 Fighta
 Fischig
 Fists
+Fraters
 Frederiks
 Frigidus
 Fulgrim
 Fulgrim's
+Furenza
 GENETOR
 GHORVANDAX
 GRÜNDVALD
@@ -278,14 +287,17 @@ Invictus
 Iron
 Ironclaw
 Ironfist
+Ismelda
 Issus
 Jaghatai
 Jaghatai's
 Janssen
 Jaynak
+Jehedda
 Jenks
 Jhelisdai
 Jopal
+Junith
 KHORNE
 Kaarlson
 Kaarlson's
@@ -406,7 +418,7 @@ Morleo
 Mosstrooper
 Munitorum
 Mycetic
-N'Botu
+N'botu
 N'Kari
 NK
 Naz
@@ -426,8 +438,11 @@ Ordo
 Ork
 Ork's
 Orks
+Ospis
 PORPHYR
+Palos
 Patterner
+Persephanae
 Perturabo
 Perturabo's
 Phaleg
@@ -436,6 +451,7 @@ Pissenah
 Plague
 Porphyr
 Portrein
+Preceptories
 Precint
 Primarch
 Primarch's
@@ -444,6 +460,7 @@ Primus
 Proccuppio
 Pyran
 Quan
+RAEMNOR
 Ratling
 Ravensburg
 Ravenwing
@@ -459,11 +476,14 @@ Rogal
 Rojo
 Rojo's
 Rotheart
+SCRIPTORUM
 SLAANESH
 SQUIDDIES
+SSO
 Sabrewulf
 Saerren
 Saim
+Sanctifactum
 Sanctorum
 Sanguinius
 Sapari
@@ -482,6 +502,7 @@ Seraphims
 Sergeant
 Shantos
 Shatterpeak
+Shriveners
 Shorn
 Siegfrieda's
 Skargrim
@@ -504,6 +525,7 @@ Svergan
 Sylelle
 TEARERS
 THRAX
+THRENOTAE
 TYRANID
 Tactica
 Talasa
@@ -554,6 +576,7 @@ Unforgiven
 Ursarkar
 Urthwart
 Uruk
+VAXORMIS
 Vagin
 Vallkante
 Vandire
@@ -627,6 +650,7 @@ bloodprice
 bodyweight
 bolter
 bolters
+boltgun
 bosspoles
 boyz
 cacodaemons
@@ -665,6 +689,7 @@ ecstacy
 electro
 em'll
 everyfing
+evocators
 eyepatch
 fieldcraft
 flambeaux
