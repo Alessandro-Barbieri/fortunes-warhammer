@@ -10,6 +10,7 @@ Adepta
 Adeptus
 Administratum
 Aduni
+Aeldari
 Agrapinna
 Ahash
 Akrida
@@ -38,14 +39,17 @@ Astropath
 Astropathic
 Asuramandos
 Asuryan
+Asuryani
 Autogun
 Avoir
 Azrael
 BELIAL
 BLADEN
+BOLTGUN
 Ba'al
 Bacharia
 Badenhall
+Baighus
 Baran
 Barantom
 Bastalek
@@ -68,6 +72,8 @@ Bugga
 Bullen
 Burusarius
 CARNARVON
+CELESTIAN
+CELESTIANS
 CONSERVATI
 CVII
 CXVI
@@ -82,9 +88,12 @@ Calgar's
 Canoness
 Canonness
 Captain
+Caritados
 Carnarvon
 Castellan
 Catachan
+Celestians
+Celestine
 Cerbera
 Champion
 Chancers
@@ -99,6 +108,7 @@ Commissar
 Commorragh
 Company
 Confessor
+Conquestus
 Corbec
 Corbee
 Corbee's
@@ -113,6 +123,7 @@ Cypher's
 Czevak
 D'you
 DAMOS
+DESPATCHED
 Daemonette
 Daemonica
 Daemonicus
@@ -146,6 +157,7 @@ Duniash
 Durath
 Durath's
 EIDOLON
+ELHANOR
 Earthshaker
 Ecclesiarch
 Ecclesiarchal
@@ -190,6 +202,7 @@ Frigidus
 Fulgrim
 Fulgrim's
 GENETOR
+GHORVANDAX
 GRÜNDVALD
 GYNDRA
 Galatan
@@ -208,6 +221,7 @@ Gibli
 Glamorga
 Gobbitz
 Gobstikk
+Goge
 Gol
 Gol's
 Goreden
@@ -225,6 +239,7 @@ Grudd
 Guard
 Gudrunite
 Guilliman
+HULLUS
 Haines
 Haller
 Halreisian
@@ -250,6 +265,7 @@ Humies
 Hummie
 Icehearts
 Ichar
+Immaculus
 Immolator
 Imperator
 Imperial
@@ -280,6 +296,8 @@ Kar
 Karnow
 Karta
 Kasrkin
+Kataryn
+Kauser
 Keigh
 Keigh's
 Kesser
@@ -374,6 +392,7 @@ Mhagdhash
 Mhakkan
 Mikhaels
 Ministorum
+Montaine
 Monthal
 Moonstrike
 Mordian
@@ -387,6 +406,7 @@ Morleo
 Mosstrooper
 Munitorum
 Mycetic
+N'Botu
 N'Kari
 NK
 Naz
@@ -396,8 +416,10 @@ Neve
 Niadien
 Niadien's
 Nissa
+Nolth
 Novamarines
 Nurgle
+OSPIS
 Ocularis
 Olex
 Ordo
@@ -440,6 +462,7 @@ Rotheart
 SLAANESH
 SQUIDDIES
 Sabrewulf
+Saerren
 Saim
 Sanctorum
 Sanguinius
@@ -460,6 +483,7 @@ Sergeant
 Shantos
 Shatterpeak
 Shorn
+Siegfrieda's
 Skargrim
 Slaanesh
 Slaanesh's
@@ -532,6 +556,8 @@ Urthwart
 Uruk
 Vagin
 Vallkante
+Vandire
+Vandire's
 Varro
 Varsavia
 Varsavian
@@ -732,6 +758,7 @@ perpetua
 planetfall
 plascrete
 plumblines
+pontifexes
 pre
 pre-planned
 psycannon
@@ -739,9 +766,11 @@ raks
 razorwire
 redback
 refight
+resoundeth
 ribcage
 rictus
 ridgeway
+rosarius
 rulership
 saltire
 sawn
