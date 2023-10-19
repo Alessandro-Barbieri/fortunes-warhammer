@@ -204,7 +204,7 @@ Ferdan
 Fighta
 Fischig
 Fists
-Fraters
+Frateris
 Frederiks
 Frigidus
 Fulgrim
@@ -298,6 +298,7 @@ Jenks
 Jhelisdai
 Jopal
 Junith
+KHERAN
 KHORNE
 Kaarlson
 Kaarlson's
@@ -492,6 +493,7 @@ Savlar
 Scallen
 Schaeffer
 Schaeffer's
+Scriptorus
 Sebastus
 Seers
 Segmentum
@@ -502,9 +504,8 @@ Seraphims
 Sergeant
 Shantos
 Shatterpeak
-Shriveners
 Shorn
-Siegfrieda's
+Siegfreda's
 Skargrim
 Slaanesh
 Slaanesh's
@@ -703,6 +704,7 @@ footsloggers
 foundings
 fountaining
 fraggers
+fraters
 freeks
 gangers
 gauntleted
@@ -806,6 +808,7 @@ shaks
 shockwaves
 shorn
 shouldst
+shriveners
 shuriken
 sigils
 skalds
@@ -829,6 +832,7 @@ tenebrous
 th
 tis
 tons'a
+tremorfields
 trubble
 twentyfold
 underhive
@@ -862,5 +866,6 @@ wraithbone
 wraithornes
 xeno
 xenos
+yawnin
 yoosless
 yooz
