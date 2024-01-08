@@ -45,6 +45,7 @@ BELIAL
 BLADEN
 Ba'al
 Bacharia
+Badab
 Badenhall
 Baran
 Barantom
@@ -311,10 +312,12 @@ Kult
 Kur
 Kyublai
 LAERAN
+LAMENTERS
 LICTOR
 Laconfir
 Laer
 Laeran
+Lamenters
 Larkin
 Lascannons
 Lasrifle
@@ -337,6 +340,7 @@ Lotin
 Lukiz
 Lysades
 MEPHISTON
+MINOTAURS
 MORIAR
 Macharius
 Machinesmith
@@ -351,6 +355,7 @@ Majoris
 Malakur
 Malleus
 Malus
+Maran
 Marine
 Marines
 Marneus
@@ -374,6 +379,7 @@ Mhagdhash
 Mhakkan
 Mikhaels
 Ministorum
+Minotaurs
 Monthal
 Moonstrike
 Mordian
@@ -404,6 +410,7 @@ Ordo
 Ork
 Ork's
 Orks
+Ossmodula
 PORPHYR
 Patterner
 Perturabo
@@ -422,6 +429,8 @@ Primus
 Proccuppio
 Pyran
 Quan
+Raffenburg's
+Rakman
 Ratling
 Ravensburg
 Ravenwing
@@ -476,6 +485,7 @@ Sororitas
 Stormseers
 Strike
 Stromm
+Subjugators
 Svergan
 Sylelle
 TEARERS
@@ -596,6 +606,7 @@ beakies
 beaky
 bearhug
 belive
+bided
 bloodlust
 bloodprice
 bodyweight
@@ -638,6 +649,7 @@ earnt
 ecstacy
 electro
 em'll
+epiphiseal
 everyfing
 eyepatch
 fieldcraft
@@ -672,6 +684,7 @@ havocs
 hawkishly
 hearted
 hivers
+homeworld
 humies
 iashupu
 ichor
@@ -761,6 +774,7 @@ sniggered
 sorceries
 sorcerous
 spiritu
+starship
 stealin
 stoneworks
 straffing
