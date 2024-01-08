@@ -1,5 +1,6 @@
 ANZION
 APCs
+ARTISANAL
 Abaddon
 Abaddon's
 Abhotha
@@ -10,6 +11,7 @@ Adepta
 Adeptus
 Administratum
 Aduni
+Aeldari
 Agrapinna
 Ahash
 Akrida
@@ -38,14 +40,17 @@ Astropath
 Astropathic
 Asuramandos
 Asuryan
+Asuryani
 Autogun
 Avoir
 Azrael
 BELIAL
 BLADEN
+BOLTGUN
 Ba'al
 Bacharia
 Badenhall
+Baighus
 Baran
 Barantom
 Bastalek
@@ -68,6 +73,8 @@ Bugga
 Bullen
 Burusarius
 CARNARVON
+CELESTIAN
+CELESTIANS
 CONSERVATI
 CVII
 CXVI
@@ -82,9 +89,13 @@ Calgar's
 Canoness
 Canonness
 Captain
+Caritados
 Carnarvon
 Castellan
 Catachan
+Cathedrum
+Celestians
+Celestine
 Cerbera
 Champion
 Chancers
@@ -99,6 +110,7 @@ Commissar
 Commorragh
 Company
 Confessor
+Conquestus
 Corbec
 Corbee
 Corbee's
@@ -113,6 +125,7 @@ Cypher's
 Czevak
 D'you
 DAMOS
+DESPATCHED
 Daemonette
 Daemonica
 Daemonicus
@@ -146,10 +159,13 @@ Duniash
 Durath
 Durath's
 EIDOLON
+ELAHNOR
 Earthshaker
+Ebon
 Ecclesiarch
 Ecclesiarchal
 Ecclesiarchy
+Ecclesiarchy's
 Egil
 Eidolon
 Eidolon's
@@ -159,8 +175,11 @@ El'Phanor
 Eldar
 Eldar's
 Eldrad
+Elenica
 Elyass
 Emeritar
+Eruita
+Erynica
 Estrone
 Estrone's
 Ethereal
@@ -185,11 +204,14 @@ Ferdan
 Fighta
 Fischig
 Fists
+Frateris
 Frederiks
 Frigidus
 Fulgrim
 Fulgrim's
+Furenza
 GENETOR
+GHORVANDAX
 GRÜNDVALD
 GYNDRA
 Galatan
@@ -208,6 +230,7 @@ Gibli
 Glamorga
 Gobbitz
 Gobstikk
+Goge
 Gol
 Gol's
 Goreden
@@ -225,6 +248,7 @@ Grudd
 Guard
 Gudrunite
 Guilliman
+HULLUS
 Haines
 Haller
 Halreisian
@@ -250,6 +274,7 @@ Humies
 Hummie
 Icehearts
 Ichar
+Immaculus
 Immolator
 Imperator
 Imperial
@@ -262,14 +287,18 @@ Invictus
 Iron
 Ironclaw
 Ironfist
+Ismelda
 Issus
 Jaghatai
 Jaghatai's
 Janssen
 Jaynak
+Jehedda
 Jenks
 Jhelisdai
 Jopal
+Junith
+KHERAN
 KHORNE
 Kaarlson
 Kaarlson's
@@ -280,6 +309,8 @@ Kar
 Karnow
 Karta
 Kasrkin
+Kataryn
+Kauser
 Keigh
 Keigh's
 Kesser
@@ -374,6 +405,7 @@ Mhagdhash
 Mhakkan
 Mikhaels
 Ministorum
+Montaine
 Monthal
 Moonstrike
 Mordian
@@ -387,6 +419,7 @@ Morleo
 Mosstrooper
 Munitorum
 Mycetic
+N'botu
 N'Kari
 NK
 Naz
@@ -396,16 +429,21 @@ Neve
 Niadien
 Niadien's
 Nissa
+Nolth
 Novamarines
 Nurgle
+OSPIS
 Ocularis
 Olex
 Ordo
 Ork
 Ork's
 Orks
+Ospis
 PORPHYR
+Palos
 Patterner
+Persephanae
 Perturabo
 Perturabo's
 Phaleg
@@ -414,6 +452,7 @@ Pissenah
 Plague
 Porphyr
 Portrein
+Preceptories
 Precint
 Primarch
 Primarch's
@@ -422,6 +461,7 @@ Primus
 Proccuppio
 Pyran
 Quan
+RAEMNOR
 Ratling
 Ravensburg
 Ravenwing
@@ -437,10 +477,14 @@ Rogal
 Rojo
 Rojo's
 Rotheart
+SCRIPTORUM
 SLAANESH
 SQUIDDIES
+SSO
 Sabrewulf
+Saerren
 Saim
+Sanctifactum
 Sanctorum
 Sanguinius
 Sapari
@@ -449,6 +493,7 @@ Savlar
 Scallen
 Schaeffer
 Schaeffer's
+Scriptorus
 Sebastus
 Seers
 Segmentum
@@ -460,6 +505,7 @@ Sergeant
 Shantos
 Shatterpeak
 Shorn
+Siegfreda's
 Skargrim
 Slaanesh
 Slaanesh's
@@ -480,6 +526,7 @@ Svergan
 Sylelle
 TEARERS
 THRAX
+THRENOTAE
 TYRANID
 Tactica
 Talasa
@@ -530,8 +577,11 @@ Unforgiven
 Ursarkar
 Urthwart
 Uruk
+VAXORMIS
 Vagin
 Vallkante
+Vandire
+Vandire's
 Varro
 Varsavia
 Varsavian
@@ -601,6 +651,7 @@ bloodprice
 bodyweight
 bolter
 bolters
+boltgun
 bosspoles
 boyz
 cacodaemons
@@ -639,6 +690,7 @@ ecstacy
 electro
 em'll
 everyfing
+evocators
 eyepatch
 fieldcraft
 flambeaux
@@ -652,6 +704,7 @@ footsloggers
 foundings
 fountaining
 fraggers
+fraters
 freeks
 gangers
 gauntleted
@@ -732,6 +785,7 @@ perpetua
 planetfall
 plascrete
 plumblines
+pontifexes
 pre
 pre-planned
 psycannon
@@ -739,9 +793,11 @@ raks
 razorwire
 redback
 refight
+resoundeth
 ribcage
 rictus
 ridgeway
+rosarius
 rulership
 saltire
 sawn
@@ -752,6 +808,7 @@ shaks
 shockwaves
 shorn
 shouldst
+shriveners
 shuriken
 sigils
 skalds
@@ -775,6 +832,7 @@ tenebrous
 th
 tis
 tons'a
+tremorfields
 trubble
 twentyfold
 underhive
@@ -808,5 +866,6 @@ wraithbone
 wraithornes
 xeno
 xenos
+yawnin
 yoosless
 yooz
