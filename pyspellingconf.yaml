@@ -8,7 +8,8 @@ matrix:
     output: en.dic
     encoding: utf-8
   sources:
-  - en/*
+  - en/wh40k/*
+  - en/fantasy/*
 - name: FR
   aspell:
     lang: fr
@@ -18,7 +19,7 @@ matrix:
     output: fr.dic
     encoding: utf-8
   sources:
-  - fr/*
+  - fr/wh40k/*
 - name: IT
   aspell:
     lang: it
@@ -28,4 +29,4 @@ matrix:
     output: it.dic
     encoding: utf-8
   sources:
-  - it/*
+  - it/wh40k/*
