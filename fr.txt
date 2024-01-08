@@ -84,6 +84,7 @@ Ordos
 Orks
 Plaignez-le
 Porte-flam
+Porte-flambeaux
 Primarch
 Ratling
 Razorback
@@ -91,6 +92,7 @@ Reach
 Reed
 Reiv
 Ridge
+Roboute
 Salonika
 Sentinel
 Shatterpeak
@@ -143,6 +145,9 @@ l'Iron
 l'Ordo
 mamba
 ments
+nécron
+porte-flam
+prédéces
 récem
 réjouissez-vous
 sance
