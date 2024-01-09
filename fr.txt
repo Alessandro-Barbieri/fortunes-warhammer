@@ -10,6 +10,7 @@ Belisarius
 Boros
 Cadia
 Cadian
+Cadmus
 Carbo
 Castellan
 Catachan
@@ -37,9 +38,11 @@ Galen
 Gau-Taranis
 Gharan
 Greyfax
+Griffith
 Guard
 Hand
 Harker
+Hawkshroud
 Hekhtur
 Hennessey
 Hicks
@@ -70,6 +73,7 @@ Macharius
 Madeye
 Makalian
 Mantra
+Massimo
 McGriffin
 Mechanicum
 Mechanicus
@@ -88,8 +92,10 @@ Nimbosa
 Nymax
 O'hen
 Orks
+ORDINUS
 Percivus
 Plaignez-le
+PRIMUS
 Ratling
 Raven
 Razorback
@@ -106,6 +112,7 @@ Straken
 T'au
 Tactica
 Tadwynne
+Taranis
 Tarn
 Tech-Priests
 Tenacia
