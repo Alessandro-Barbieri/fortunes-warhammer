@@ -41,6 +41,7 @@ Astropathic
 Asuramandos
 Asuryan
 Asuryani
+Aujula
 Autogun
 Avoir
 Azrael
@@ -172,6 +173,7 @@ Eidolon's
 Einz
 El'Jonson
 El'Phanor
+El'sayem
 Eldar
 Eldar's
 Eldrad
@@ -303,6 +305,7 @@ KHORNE
 Kaarlson
 Kaarlson's
 Kaela
+Kaerton
 Kaiserschlect
 Kantrael
 Kar
@@ -391,6 +394,7 @@ Marquanse
 Marquanse's
 Marshal
 Massena
+Mathwyr
 Maticula
 Maugan
 Mauryon
@@ -404,6 +408,7 @@ Merkin
 Mhagdhash
 Mhakkan
 Mikhaels
+Mina
 Ministorum
 Montaine
 Monthal
@@ -470,6 +475,7 @@ Razorback
 Reductor
 Reille
 Reille's
+Repentia
 Rhino
 Ridge
 Roboute
@@ -646,6 +652,7 @@ beakies
 beaky
 bearhug
 belive
+bioforms
 bloodlust
 bloodprice
 bodyweight
@@ -690,6 +697,7 @@ ecstacy
 electro
 em'll
 everyfing
+eviscerators
 evocators
 eyepatch
 fieldcraft
@@ -760,6 +768,7 @@ machinesmith
 magicks
 magna
 maluku
+manufactorum
 megathule
 melta
 meltabombs
