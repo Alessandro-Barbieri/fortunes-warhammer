@@ -30,6 +30,7 @@ Apothecarium
 Apothecary
 Arbites
 Arboroath
+Arco
 Areicon
 Argentium
 Armaplas
@@ -95,6 +96,7 @@ Carnarvon
 Castellan
 Catachan
 Cathedrum
+Celestian
 Celestians
 Celestine
 Cerbera
@@ -102,6 +104,7 @@ Champion
 Chancers
 Chaos
 Chaplain
+Chariah
 Chima
 Chogoris
 City
@@ -143,6 +146,7 @@ Deffblasta
 Departmento
 Deth
 Devils
+Dialogus
 Dihydrogen
 Domine
 Doomblaster
@@ -286,6 +290,7 @@ Indoctrinations
 Inq
 Inquisitor
 Invictus
+Invidia
 Iron
 Ironclaw
 Ironfist
@@ -472,6 +477,7 @@ Ravensburg
 Ravenwing
 Rawne
 Razorback
+Redemptus
 Reductor
 Reille
 Reille's
