@@ -1,4 +1,3 @@
-
 ANZION
 APCs
 ARTISANAL
@@ -16,12 +15,15 @@ Aeldari
 Agrapinna
 Ahash
 Akrida
+Alamenci
 Aliesha
 Aliesha's
 Alisore
 Allfather
 Amalath
 Amistel
+Anarchia
+Anarchian
 Andralios
 Angels
 Anzion
@@ -39,6 +41,7 @@ Armaplas
 Arsann
 Arvad
 Astartes
+Astra
 Astropath
 Astropathic
 Asuramandos
@@ -57,6 +60,7 @@ Badenhall
 Baighus
 Baran
 Barantom
+Barvic
 Bastalek
 Beacher
 Berionne
@@ -72,8 +76,10 @@ Borenza
 Boros
 Boyz
 Bradburn
+Brama
 Bretonnian
 Brigitta
+Brzezko
 Budi
 Bugga
 Bullen
@@ -109,6 +115,7 @@ Chancers
 Chaos
 Chaplain
 Chariah
+Cheandra
 Chima
 Chogoris
 City
@@ -140,6 +147,7 @@ Daemonicus
 Dagohma
 Damos
 Dark
+Dasyrov
 DeJano
 Deadlands
 Deakins
@@ -162,6 +170,7 @@ Dorn's
 Draeg
 Dragnatz
 Dragoons
+Drechendel
 Drookian
 Drovian
 Dulan
@@ -243,6 +252,7 @@ Glamorga
 Gobbitz
 Gobstikk
 Goge
+Gohrga
 Gol
 Gol's
 Goreden
@@ -275,6 +285,7 @@ Helveticus
 Hephaestos
 Hereticus
 Hessel
+Hetman
 Hivefleet
 Hollseher
 Holroyd
@@ -286,6 +297,7 @@ Humies
 Hummie
 Icehearts
 Ichar
+Imagifier
 Immaculus
 Immolator
 Imperator
@@ -353,6 +365,7 @@ Krigos
 Kroksnik
 Krukfang
 Kryptman
+Kulawicz
 Kult
 Kur
 Kyublai
@@ -419,9 +432,11 @@ Mekaniak
 Mensha
 Mephiston
 Merkin
+Mersia
 Mhagdhash
 Mhakkan
 Mikhaels
+Militarum
 Mina
 Ministorum
 Montaine
@@ -453,6 +468,7 @@ Novamarines
 Nurgle
 OSPIS
 Ocularis
+Ogvrod
 Olex
 Ordo
 Ordos
@@ -533,6 +549,7 @@ Shatterpeak
 Shorn
 Siegfreda's
 Siluria
+Silvana
 Skargrim
 Slaanesh
 Slaanesh's
@@ -570,6 +587,7 @@ Templars
 Tenathis
 Terminator's
 Terribus
+Tertius
 Tessera
 Thoren
 Thousand
@@ -761,6 +779,7 @@ iashupu
 ichor
 im
 immaterium
+inloaded
 intercostal
 iz
 keigh
