@@ -1,3 +1,4 @@
+
 ANZION
 APCs
 ARTISANAL
@@ -33,6 +34,7 @@ Arboroath
 Arco
 Areicon
 Argentium
+Arleille
 Armaplas
 Arsann
 Arvad
@@ -57,9 +59,11 @@ Baran
 Barantom
 Bastalek
 Beacher
+Berionne
 Biel
 Black
 Bladen
+Blane
 Blood
 Bolters
 Bommer
@@ -146,6 +150,7 @@ Deffblasta
 Departmento
 Deth
 Devils
+Dialogi
 Dialogus
 Dihydrogen
 Domine
@@ -229,6 +234,7 @@ Gaunt's
 Geddem
 General
 Genetor
+Gharagdar
 Ghazghkull
 Ghazghkull's
 Ghazgkhull
@@ -321,6 +327,7 @@ Kataryn
 Kauser
 Keigh
 Keigh's
+Kellenhost
 Kesser
 Khaine
 Kheros
@@ -351,12 +358,14 @@ Kur
 Kyublai
 LAERAN
 LICTOR
+Lacena
 Laconfir
 Laer
 Laeran
 Larkin
 Lascannons
 Lasrifle
+Lassemer
 Learchus
 Legion
 Legiones
@@ -429,8 +438,8 @@ Morleo
 Mosstrooper
 Munitorum
 Mycetic
-N'botu
 N'Kari
+N'botu
 NK
 Naz
 Necrontyr
@@ -446,6 +455,7 @@ OSPIS
 Ocularis
 Olex
 Ordo
+Ordos
 Ork
 Ork's
 Orks
@@ -469,6 +479,7 @@ Primarch's
 Primarchs
 Primus
 Proccuppio
+Pronatus
 Pyran
 Quan
 RAEMNOR
@@ -482,6 +493,7 @@ Reductor
 Reille
 Reille's
 Repentia
+Retributor
 Rhino
 Ridge
 Roboute
@@ -489,6 +501,8 @@ Rogal
 Rojo
 Rojo's
 Rotheart
+Roxhanna
+Rychus
 SCRIPTORUM
 SLAANESH
 SQUIDDIES
@@ -518,6 +532,7 @@ Shantos
 Shatterpeak
 Shorn
 Siegfreda's
+Siluria
 Skargrim
 Slaanesh
 Slaanesh's
@@ -544,6 +559,7 @@ Tactica
 Talasa
 Taldac
 Tanith
+Tariana
 Tarturus
 Tearers
 Tech-Priests
@@ -577,6 +593,7 @@ Tyranic
 Tyranid
 Tyranids
 Tyrell
+Tyron
 Tzeentch
 Ulthran
 Ulthran's
@@ -803,15 +820,18 @@ plumblines
 pontifexes
 pre
 pre-planned
+profaner
 psycannon
 raks
 razorwire
 redback
 refight
+rescribe
 resoundeth
 ribcage
 rictus
 ridgeway
+rockslide
 rosarius
 rulership
 saltire
