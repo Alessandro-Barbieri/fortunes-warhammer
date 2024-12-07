@@ -78,7 +78,6 @@ Iron
 Ixas
 J'etais
 KNIGHT
-KOLOSSI
 Kalda
 Kallastin
 Karina
@@ -121,12 +120,12 @@ Nassatar
 Nimbosa
 Nymax
 O'hen
-ORDINUS
+Ordinus
 Orks
-PRIMUS
 Percivus
 Plaignez-le
 Preceptor
+Primus
 Protégez-le
 Questor
 Ratling
@@ -202,12 +201,14 @@ feuille-épine
 fouetteur
 grox
 impulseurs
+kolossi
 l'Adeptus
 l'Aeronautica
 l'Astra
 l'Avenue
 l'Empereur
 l'Empire
+l'Honneur
 l'Humanité
 l'Hérésie
 l'Imperium
