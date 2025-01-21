@@ -107,7 +107,6 @@ Kor'sarro
 Koz’è
 Krivonor
 L'Adeptus
-L'Adeptus
 Legion
 Lent
 Liber
@@ -146,8 +145,6 @@ Pariah
 Plague
 Prefectus
 Priests
-Priests
-Priests
 Qu'rastis
 Questor
 Raukaan
@@ -182,8 +179,6 @@ Sorcerer
 Strike
 Stronos
 Tactica
-Tech
-Tech
 Tech
 Telepathica
 Telion
@@ -266,7 +261,6 @@ mundans
 nobis
 noster
 nostrae
-of
 of
 orkesca
 pelleverde
