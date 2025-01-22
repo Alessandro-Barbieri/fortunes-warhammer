@@ -5,6 +5,7 @@ Adeptus
 Aeldari
 Altansar
 Amhrad
+Anfingrimm
 Angels
 Argentius
 Armageddon
@@ -95,6 +96,7 @@ Iron
 Ironclaw
 Josmane
 KAPPIC
+KHORNE
 Kantor
 Kapo
 Kappic
@@ -163,6 +165,7 @@ Sacrificium
 Scarfist
 Scorranno
 Scriptorus
+Scyla
 Seers
 Sergeant
 Servitors
