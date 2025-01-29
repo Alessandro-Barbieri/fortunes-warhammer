@@ -130,6 +130,7 @@ Deffblasta
 Departmento
 Deth
 Devils
+Didactus
 Dihydrogen
 Domine
 Doomblaster
@@ -404,6 +405,7 @@ Novamarines
 Nullus
 Nurgle
 Ocularis
+Officio
 Olex
 Omnis
 Ordo
@@ -446,6 +448,7 @@ Rojo's
 Rotheart
 SLAANESH
 SQUIDDIES
+Sabbat
 Sabrewulf
 Sacrificium
 Saim
@@ -473,6 +476,7 @@ Slaanesh
 Slaanesh's
 Slaaneshi
 Slavro
+Slaydo
 Snagga
 Sniper
 Solan
@@ -498,6 +502,7 @@ Tearers
 Tech-Priests
 Techmarines
 Tegus
+Tellemorius
 Tempestora
 Templars
 Tenathis
