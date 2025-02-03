@@ -10,6 +10,7 @@ Adepta
 Adeptus
 Administratum
 Aduni
+Aeternitas
 Agrapinna
 Ahash
 Akrida
@@ -133,6 +134,7 @@ Devils
 Didactus
 Dihydrogen
 Domine
+Donian
 Doomblaster
 Dorden
 Doreth
@@ -181,6 +183,7 @@ Fane's
 Farglum
 Farseer
 Farseers
+Farsight
 Fede
 Fenguard
 Fenris
@@ -189,6 +192,7 @@ Ferdan
 Fighta
 Fischig
 Fists
+Foestalkers
 Frederiks
 Frigidus
 Fulgrim
@@ -275,6 +279,7 @@ Jaynak
 Jenks
 Jhelisdai
 Jopal
+Judhens
 KHORNE
 Kaarlson
 Kaarlson's
@@ -300,6 +305,7 @@ Knyas'muad
 Kobal
 Kojhmar
 Kolea
+Kommandos
 Korkin
 Korkin's
 Korps
@@ -334,6 +340,7 @@ Lictor
 Lictor's
 Lictors
 Lifeform
+Litnus
 Liutenant
 Lomas
 Lothar
@@ -416,6 +423,7 @@ PORPHYR
 Patterner
 Perturabo
 Perturabo's
+Petrov
 Phaleg
 Piscina
 Pissenah
@@ -478,6 +486,7 @@ Slaaneshi
 Slavro
 Slaydo
 Snagga
+Snikrot
 Sniper
 Solan
 Solar
@@ -490,6 +499,7 @@ Strike
 Stromm
 Svergan
 Sylelle
+T'au
 TEARERS
 THRAX
 TYRANID
@@ -583,6 +593,7 @@ Yarrick
 Yendl
 Yendl's
 Yngir
+Zarr
 Zhou
 Zoican
 Zoicans
@@ -621,6 +632,7 @@ camo
 canna
 carven
 cellarion
+cept
 ceramite
 chainsword
 chamaleonic
@@ -684,12 +696,14 @@ godz
 gouts
 grav
 greenskin
+greenskinned
 greenskins
 grot
 grotesquery
 grox
 gunsight
 gurglings
+hab
 haemotoxin
 hann
 havocs
@@ -803,6 +817,7 @@ sniggered
 sorceries
 sorcerous
 spiritu
+stabbiest
 stealin
 stoneworks
 straffing
