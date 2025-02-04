@@ -21,4 +21,4 @@ jobs:
     - name: Spell check
       run: |
         egrep -lRZ '’' . | xargs -0 -l sed -i -e "s/’/\'/g"
-        python -m pyspelling -s hunspell -c pyspellingconf.yaml
+        python -m pyspelling -c pyspellingconf.yaml
