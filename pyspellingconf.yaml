@@ -1,6 +1,6 @@
 spellchecker: hunspell
 matrix:
-- name: EN
+- name: English
   hunspell:
     d: en_GB
   dictionary:
@@ -11,9 +11,9 @@ matrix:
   sources:
   - en/wh40k/*
   - en/fantasy/*
-- name: FR
+- name: French
   hunspell:
-    d: fr
+    d: fr_FR
   dictionary:
     wordlists:
     - fr.txt
@@ -21,7 +21,7 @@ matrix:
     encoding: utf-8
   sources:
   - fr/wh40k/*
-- name: IT
+- name: Italian
   hunspell:
     d: it_IT
   dictionary:
