@@ -17,7 +17,7 @@ jobs:
         # Install any additional libraries required: additional plugins, documentation building libraries, etc.
     - name: Install hunspell
       run: |
-        sudo apt-get install hunspell hunspell-en hunspell-fr hunspell-it
+        sudo apt-get install hunspell hunspell-en-gb hunspell-fr hunspell-fr-classical hunspell-fr-revised hunspell-fr-comprehensive hunspell-it
     - name: Spell check
       run: |
         egrep -lRZ '’' . | xargs -0 -l sed -i -e "s/’/\'/g"
