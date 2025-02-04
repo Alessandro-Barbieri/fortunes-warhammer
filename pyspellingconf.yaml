@@ -2,7 +2,6 @@ spellchecker: hunspell
 matrix:
 - name: EN
   hunspell:
-    lang: en
     d: en_GB
   dictionary:
     wordlists:
@@ -14,7 +13,6 @@ matrix:
   - en/fantasy/*
 - name: FR
   hunspell:
-    lang: fr
     d: fr
   dictionary:
     wordlists:
@@ -25,7 +23,6 @@ matrix:
   - fr/wh40k/*
 - name: IT
   hunspell:
-    lang: it
     d: it_IT
   dictionary:
     wordlists:
