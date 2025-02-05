@@ -15,10 +15,9 @@ Astartes
 Ordo
 Koz
 Astronomican
-Aun'Va
+AunʼVa
 Astra
 Trellar
-Imperatore.
 Avitus
 Omnissia
 Azar
@@ -48,7 +47,7 @@ Crimson
 Cult
 Custodes
 Czevak
-D'Kestrel
+DʼKestrel
 Dagostin
 Dark
 Darnath
@@ -110,8 +109,8 @@ Kastelans
 Kayvaan
 Khorne
 Knights
-Kor'sarro
-Koz'è
+Korʼsarro
+Kozʼè
 Krivonor
 Adeptus
 Legion
@@ -151,7 +150,7 @@ Pariah
 Plague
 Prefectus
 Priests
-Qu'rastis
+Quʼrastis
 Questor
 Raukaan
 Ravenwing
@@ -196,7 +195,7 @@ Tigurius
 Tiranidi
 Torias
 Trojana
-Tu'shan
+Tuʼshan
 Tyranids
 Tzeentch
 Ulthwé
@@ -207,7 +206,7 @@ Ut
 Valtor
 Varestus
 Varro
-Vel'cona
+Velʼcona
 Verignan
 Veteran
 Warp
@@ -217,7 +216,7 @@ Xygrus
 Yarrick
 Ybrekian
 Zamorael
-a'Trellar
+aʼTrellar
 ceramite
 ceta
 cos
@@ -253,7 +252,7 @@ Astra
 Imperium
 Omnissia
 adamantio
-ma'or
+maʼor
 mahsemo
 mamba
 manufactorum
