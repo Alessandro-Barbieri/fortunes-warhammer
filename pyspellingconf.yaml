@@ -1,7 +1,8 @@
+spellchecker: hunspell
 matrix:
-- name: EN
-  aspell:
-    lang: en
+- name: English
+  hunspell:
+    d: en_GB
   dictionary:
     wordlists:
     - en.txt
@@ -10,9 +11,9 @@ matrix:
   sources:
   - en/wh40k/*
   - en/fantasy/*
-- name: FR
-  aspell:
-    lang: fr
+- name: French
+  hunspell:
+    d: fr_FR
   dictionary:
     wordlists:
     - fr.txt
@@ -20,9 +21,9 @@ matrix:
     encoding: utf-8
   sources:
   - fr/wh40k/*
-- name: IT
-  aspell:
-    lang: it
+- name: Italian
+  hunspell:
+    d: it_IT
   dictionary:
     wordlists:
     - it.txt
@@ -30,3 +31,4 @@ matrix:
     encoding: utf-8
   sources:
   - it/wh40k/*
+  - it/fantasy/*
