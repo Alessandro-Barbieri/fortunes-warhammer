@@ -20,5 +20,4 @@ jobs:
         sudo apt-get install hunspell hunspell-en-gb hunspell-fr hunspell-fr-comprehensive hunspell-it
     - name: Spell check
       run: |
-        egrep -lRZ '’' . | xargs -0 -l sed -i -e "s/’/\'/g"
         python -m pyspelling -c pyspellingconf.yaml
